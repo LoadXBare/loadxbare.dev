@@ -1,0 +1,31 @@
+body {
+	background-color: #B3E8E5;
+	font-family: Verdana;
+	text-align: center;
+}
+
+table {
+	border-spacing: 5px;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	width: 5%;
+	border-width: 5px;
+	border-color: #82DBD8;
+}
+
+h1 {
+	color: #2F8F9D;
+}
+
+h3 {
+	color: #2F8F9D;
+}
+
+/*********************/
+
+.icon {
+	width: 20px;
+}
