@@ -29,3 +29,44 @@ h3 {
 .icon {
 	width: 20px;
 }
+
+.button-container {
+	margin: 10px 0px;
+}
+
+.button {
+	border-style: solid;
+	border-color: #2F8F9D;
+	background-color: #82DBD8;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-radius: 8px;
+	position: relative;
+}
+
+.button:hover {
+	border-color: #82DBD8;
+	background-color: #2F8F9D;
+}
+
+.button-soon {
+	border-color: darkgray;
+	background-color: grey;
+}
+
+.button-soon:hover {
+	border-color: darkgray;
+	background-color: grey;
+}
+
+.button-img {
+	width: 30px;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+
+.button-p {
+	display: inline-block;
+	color: white;
+}
