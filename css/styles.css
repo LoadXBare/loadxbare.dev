@@ -26,8 +26,9 @@ h3 {
 
 /*********************/
 
-.icon {
-	width: 20px;
+.pfp {
+	width: 200px;
+	border-radius: 100%;
 }
 
 .button-container {
