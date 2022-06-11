@@ -1,7 +1,8 @@
 body {
 	background-color: #B3E8E5;
-	font-family: Verdana;
+	font-family: 'Comfortaa', sans-serif;
 	text-align: center;
+	margin: 0px;
 }
 
 table {
@@ -17,6 +18,9 @@ hr {
 }
 
 h1 {
+	font-size: 4em;
+	font-family: 'Courgette', cursive;
+	margin: 5px;
 	color: #2F8F9D;
 }
 
@@ -24,9 +28,31 @@ h3 {
 	color: #2F8F9D;
 }
 
+footer {
+	background-color: #3fbbc6;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
 /*********************/
 
+.footer-link {
+	display: block;
+	margin: 0px;
+	padding-bottom: 30px;
+	color: #236d78;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.footer-text {
+	margin: 0px;
+	color: #236d78;
+}
+
 .pfp {
+	margin: 10px;
 	width: 200px;
 	border-radius: 100%;
 }
